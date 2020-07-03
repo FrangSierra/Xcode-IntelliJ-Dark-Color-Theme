@@ -5,6 +5,7 @@ Xcode Color template that emulates the colors and syntax from IntelliJ IDE's
 ![](https://github.com/FrangSierra/Xcode-IntelliJ-Dark-Color-Theme/blob/master/images/theme1.png?raw=true)
 
 # How to install?
+-  Download and install Jetbrains Mono font.
 -  Download the `IntelliJDark.xccolortheme` file
 -  Open your terminal and move to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 -  Execute `open .` to open the actual folder and copy the `IntelliJDark.xccolortheme` file.
